@@ -7,5 +7,5 @@
     进行实时清洗，最终落入MongoDB。
 
 ## kafkaStream简介：
-    [Kfaka Stream使用总结]()
-    [kafka教程文档]()
+1. [Kfaka Stream使用总结](https://github.com/Liangchengdeye/kafkaStream/blob/master/Kfaka%20Stream%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93.pdf)
+2. [kafka教程文档](https://github.com/Liangchengdeye/kafkaStream/blob/master/Kafka/%E6%96%87%E6%A1%A3/kafka%E6%95%99%E7%A8%8B%E6%96%87%E6%A1%A3.pdf)
